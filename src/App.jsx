@@ -1,13 +1,13 @@
 import React from 'react'
-import Header from './Components/Header/header'
-import Navbar from './Components/Navbar/Navbar'
-import About from './Components/About/About'
-import Experience from './Components/Experience/experience'
-import Services from './Components/Services/services'
-import Portfolio from './Components/Portfolio/portfolio'
-import Testimonials from './Components/Testimonials/testimonials'
-import Contact from './Components/Contact/Contact'
-import Footer from './Components/Footer/Footer'
+import Header from './Components/header/Header'
+import Navbar from './Components/navbar/Navbar'
+import About from './Components/about/About'
+import Experience from './Components/experience/Experience'
+import Services from './Components/services/Services'
+import Portfolio from './Components/portfolio/Portfolio'
+import Testimonials from './Components/testimonials/Testimonials'
+import Contact from './Components/contact/Contact'
+import Footer from './Components/footer/Footer'
 
 const App = () => {
   return (
@@ -17,10 +17,10 @@ const App = () => {
     <About/>
     <Experience/>
     <Services/>
-    <Portfolio/>
-    <Testimonials/>
+    {/* <Portfolio/> */}
+    {/* <Testimonials/> */}
     <Contact/>
-    <Footer/> 
+    {/* <Footer/>  */}
 
     </>
   )

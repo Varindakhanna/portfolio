@@ -1,10 +1,10 @@
 import React from 'react'
-import './testimonials'
+import './Testimonials'
 const testimonials = () => {
   return (
-    <div>
+    <section id='testimonials'>
       testimonials it is
-    </div>
+    </section>
   )
 }
 
