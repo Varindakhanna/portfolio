@@ -11,6 +11,7 @@
     background: linear-gradient(45deg , transparent , var(--color-primary),transparent);
     display: grid;
     place-items: center;
+    
 }
 
 .about__me-image{
@@ -80,6 +81,7 @@ a
     .about__me{
         width: 65%;
         margin: 0 auto 3rem;
+        
     }
 
     .about__cards{
