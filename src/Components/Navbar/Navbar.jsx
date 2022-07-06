@@ -15,7 +15,7 @@ const Navbar = () => {
       <a href="#" onClick={()=> setActiveNav('#')} className={activeNav ==='#'? 'active':''}><AiOutlineHome className='Navbar__icons'/></a>
       <a href="#about" onClick={()=> setActiveNav('#about')} className={activeNav ==='#about'? 'active':''}><AiOutlineUser className='Navbar__icons'/></a>
       <a href="#experience" onClick={()=> setActiveNav('#experience')} className={activeNav ==='#experience'? 'active':''}><BsBook className='Navbar__icons'/></a>
-      <a href="#services onClick={()=> setActiveNav('#services')} className={activeNav ==='#services'? 'active':''}"><RiServiceLine className='Navbar__icons'/></a>
+      <a href="#services" onClick={()=> setActiveNav('#services')} className={activeNav ==='#services'? 'active':''}><RiServiceLine className='Navbar__icons'/></a>
       <a href="#contact" onClick={()=> setActiveNav('#contact')} className={activeNav ==='#contact'? 'active':''}><AiOutlineContacts className='Navbar__icons'/></a>
     </nav> 
   )
