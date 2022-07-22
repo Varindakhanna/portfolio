@@ -11,7 +11,7 @@ const About = () => {
       <div className="container about__container">
         <div className="about__me">
           <div className="about__me-image">
-            <img src={ME} alt="" />
+            <img src={ME} alt="About Image" />
           </div>
         </div>
 
@@ -20,28 +20,31 @@ const About = () => {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Experience</h5>
-              <small>3+ Years Working </small>
+              <small>1+ Year Working </small>
             </article>
 
             <article className="about__card">
               <FaUserAlt className="about__icon" />
-              <h5>Experience</h5>
-              <small>3+ Years Working </small>
+              <h5>Clients</h5>
+              <small>In search of them</small>
             </article>
 
             <article className="about__card">
               <FaFolder className="about__icon" />
-              <h5>Experience</h5>
-              <small>3+ Years Working </small>
+              <h5>Projects</h5>
+              <small>4+ Completed</small>
             </article>
           </div>
 
+          
           <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Amet
-            perspiciatis ipsam ullam possimus quaerat ipsum commodi dignissimos
-            magnam. Saepe incidunt quos ducimus consectetur nesciunt atque quae
-            vel, veniam voluptatum enim nisi odit placeat aliquam!
+            Hi !! I'm am a Web Developer and Programmer living in Amritsar , Punjab . Currently I'm a 3rd Year Computer Engineer in Thapar University. I make Web application, 
+            usually with Html , Css , Javascript and REACT   
           </p>
+
+    
+
+         
           <a href="#contact" className="btn btn-primary">
             Let's talk
           </a>

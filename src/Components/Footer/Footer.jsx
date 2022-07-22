@@ -6,7 +6,7 @@ const Footer = () => {
   return (
     <section id="footer">
       <footer>
-        <a href="#" className="footer__logo">EGATOR</a>
+        <a href="#" className="footer__logo">Varinda Khanna</a>
 
         <ul className="permalinks">
           <li><a href="#">Home</a></li>
@@ -27,7 +27,7 @@ const Footer = () => {
         </div>
 
         <div className="footer__copyright">
-          <small>&copy; EGATOR Tutorials . All rights reserved</small>
+          <small>&copy; All rights reserved</small>
 
         </div>
       </footer>
