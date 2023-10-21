@@ -20,7 +20,7 @@ const About = () => {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Experience</h5>
-              <small>1+ Year Working </small>
+              <small>2 months Internship </small>
             </article>
 
             <article className="about__card">
@@ -36,10 +36,32 @@ const About = () => {
             </article>
           </div>
 
+
           
           <p>
-            Hi !! I'm am a Web Developer and Programmer living in Amritsar , Punjab . Currently I'm a 3rd Year Computer Engineer in Thapar University. I make Web application, 
-            usually with Html , Css , Javascript and REACT   
+
+          <ol style={{ listStyleType: 'decimal' }}>
+              <li>
+              Hello! I'm a passionate Web Developer and Programmer based in Amritsar, Punjab.
+             </li>
+             <li>
+             Currently, I'm in my <b>final year</b> of Computer Engineering at Thapar Institute of Engineering and Technology, Patiala.
+             </li>
+             <li>
+             My primary focus is on creating dynamic and interactive web applications, utilizing technologies such as HTML, CSS, JavaScript, and <b>React.js</b>.
+             </li>
+             <li>
+             In addition to web development, I excel in Data Structures and Algorithms, with a strong proficiency in <b>Java</b> . 
+             </li>
+             <li>
+             I also gained valuable industry experience through an internship at <b>Accenture</b> as an Advanced App Engineer Analyst Intern , where I had the opportunity to work on real-world projects and enhance my skills.
+             </li>
+             <li>
+             I'm dedicated to creating innovative and user-friendly solutions, and I'm always eager to take on new challenges in the world of technology.
+             </li>
+            </ol>
+          
+          
           </p>
 
     

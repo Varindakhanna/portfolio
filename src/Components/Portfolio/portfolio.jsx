@@ -1,7 +1,7 @@
 import React from "react";
 import "./portfolio.css";
-import IMG from "../../assets/newsapp.jpg";
-import IMG2 from "../../assets/ig.webp";
+import IMG from "../../assets/news.png";
+import IMG2 from "../../assets/homestayz.png";
 import IMG3 from "../../assets/notes.png";
 
 const portfolio = () => {
@@ -14,8 +14,8 @@ const portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG2} alt="" />
           </div>
-          <h3>Instagram-Clone</h3>
-          <a href="https://github.com" className="btn" target="_blank">
+          <h3>HomeStayz</h3>
+          <a href="https://github.com/Varindakhanna/HomeStayz" className="btn" target="_blank">
             Github
           </a>
         </article>
@@ -25,7 +25,7 @@ const portfolio = () => {
             <img src={IMG} alt="" />
           </div>
           <h3>News-Monkey</h3>
-          <a href="https://github.com" className="btn" target="_blank">
+          <a href="https://github.com/Varindakhanna/News_App" className="btn" target="_blank">
             Github
           </a>
         </article>
@@ -35,7 +35,7 @@ const portfolio = () => {
             <img src={IMG3} alt="" />
           </div>
           <h3>i-Notebook</h3>
-          <a href="https://github.com" className="btn" target="_blank">
+          <a href="https://github.com/Varindakhanna/i_Notebook" className="btn" target="_blank">
             Github
           </a>
         </article>
