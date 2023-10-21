@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.02cf1b6a.css",
-    "main.js": "/portfolio/static/js/main.6e1735c7.js",
+    "main.css": "/portfolio/static/css/main.ab85a327.css",
+    "main.js": "/portfolio/static/js/main.0a13c87b.js",
     "static/media/me-about-2.jpg": "/portfolio/static/media/me-about-2.e63e5830e180aaeeb535.jpg",
-    "static/media/ig.webp": "/portfolio/static/media/ig.0d1d2fce0a764df27bd0.webp",
     "static/media/bg.png": "/portfolio/static/media/bg.d6bd99a03d59f617fa1f.png",
-    "static/media/notes.png": "/portfolio/static/media/notes.484d513fde3d8da15646.png",
-    "static/media/newsapp.jpg": "/portfolio/static/media/newsapp.bf64d434b3bc2c7fa18c.jpg",
-    "static/media/resume.docx": "/portfolio/static/media/resume.ac061eb3780e776d223a.docx",
+    "static/media/resume.pdf": "/portfolio/static/media/resume.43fe32a2bf73394c070b.pdf",
+    "static/media/notes.png": "/portfolio/static/media/notes.0aec45f59e2e83f966d0.png",
+    "static/media/homestayz.png": "/portfolio/static/media/homestayz.43dc3f3b265de26c3e07.png",
+    "static/media/news.png": "/portfolio/static/media/news.8a5fb72b799094ba3d4c.png",
     "index.html": "/portfolio/index.html",
-    "main.02cf1b6a.css.map": "/portfolio/static/css/main.02cf1b6a.css.map",
-    "main.6e1735c7.js.map": "/portfolio/static/js/main.6e1735c7.js.map"
+    "main.ab85a327.css.map": "/portfolio/static/css/main.ab85a327.css.map",
+    "main.0a13c87b.js.map": "/portfolio/static/js/main.0a13c87b.js.map"
   },
   "entrypoints": [
-    "static/css/main.02cf1b6a.css",
-    "static/js/main.6e1735c7.js"
+    "static/css/main.ab85a327.css",
+    "static/js/main.0a13c87b.js"
   ]
 }
